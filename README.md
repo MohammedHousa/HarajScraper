@@ -15,3 +15,4 @@ How to use it:
 6- Navigate to app1 and run it
 
 Don't remove any files from this folder.
+https://github.com/MohammedHousa/HarajScraper#readme
