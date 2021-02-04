@@ -7,12 +7,12 @@ Requirements:
 - PyCharm or any python IDE ==> https://www.jetbrains.com/pycharm/download/
 
 How to use it:
-1- Start a new python project in pycharm.
-2- clone 
+1 - Click on "Code" then "Download ZIP"
+2 - Unzip the file on your computer
+3 - Right click the unziped folder and "Open Folder as PyCharm Project"
+4 - Navigate to web_scraper.py
+5 - Put haraj url in "URL"
+6 - Navigate to app1 and run it
 
 
-You have to install the following:
-
-pip install requests pip install beautifulsoup4 pip install lxml pip install selenium
-
-you have to have this app in the project folder https://github.com/mozilla/geckodriver/releases
+* Don't remove any files from the folder.
